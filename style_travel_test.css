@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+
+html, body{
+    width: 100%;
+    height: 100%;
+    /*font-family: 'Gamja Flower';*/    
+    color: #222;   
+}
+.navbar{
+    background-color: rgba(36, 102, 69, 0.9) !important;
+    
+}
+.navbar li a{
+    color: white !important;
+}
+.navbar li a:hover{
+    color: black !important;
+}
+
+.jumbotron {
+    background-image: url('england.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #a75656; /* Màu chữ trên nền ảnh */
+  }
+
+
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+}
+
